@@ -1,5 +1,6 @@
 {
 "main" : {
+    "author" : "Sadow",
     "link" : "none",
     "version" : 1.00, 
     "description" : "[\"Это тест системы обновлений\", \"Это перенос строки\"]"
